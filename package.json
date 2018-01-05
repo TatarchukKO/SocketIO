@@ -1,0 +1,23 @@
+{
+  "name": "socketio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TatarchukKO/SocketIO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TatarchukKO/SocketIO/issues"
+  },
+  "homepage": "https://github.com/TatarchukKO/SocketIO#readme",
+  "dependencies": {
+    "socket.io": "^2.0.4"
+  }
+}
